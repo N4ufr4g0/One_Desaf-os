@@ -14,9 +14,9 @@
 - [Insignias](#insignias)
 - [Índice](#índice)
 - [Descripción del proyecto](#descripción-del-proyecto)
-- [Estado del proyecto](#🔨estado-del-proyecto)
+- [Estado del proyecto](#estado)
 - [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
-- [Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Autores](#autores)
 - [Conclusión](#conclusión)
@@ -24,10 +24,10 @@
 ## Descripción del proyecto
 Este proyecto consiste en una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Los usuarios pueden agregar nombres mediante un campo de texto, visualizar la lista de nombres ingresados, y realizar el sorteo para seleccionar un amigo secreto.
 
-## 🚧 Estado del proyecto
+## 🚧 Estado del proyecto 🚧
 El proyecto está actualmente en desarrollo y las funcionalidades básicas han sido implementadas. Se planea agregar mejoras en la interfaz de usuario y opciones adicionales en futuras versiones.
 
-## 🔨 Características de la aplicación y demostración
+## 🔨 Características de la aplicación y demostración 🔨
 - **Agregar nombres**: Los usuarios pueden ingresar el nombre de un amigo en un campo de texto y agregarlo a una lista visible.
 - **Validar entrada**: Si el campo de texto está vacío, se muestra una alerta pidiendo un nombre válido.
 - **Visualizar la lista**: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
