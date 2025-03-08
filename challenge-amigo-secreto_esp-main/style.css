@@ -160,3 +160,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+```css
+.header-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-banner img {
+    margin-top: 20px; /* Si deseas agregar un margen superior */
+}
