@@ -44,7 +44,7 @@ El proyecto está actualmente en desarrollo y las funcionalidades básicas han s
 - JavaScript (ES6)
 
 ## Autores
-[<img src="https://avatars.githubusercontent.com/u/107274595?v=4" width=115><br><h2>N4ufr4g0</h2>](https://github.com/N4ufr4g0)
+[<img src="https://avatars.githubusercontent.com/u/107274595?v=4" width=115><br>N4ufr4g0](https://github.com/N4ufr4g0)
 
 
 ## Conclusión
