@@ -1,8 +1,6 @@
 # One_Desaf-os
 
-<h1 align="center"> Amigo Secreto </h1>
-
-## Título e imagen de portada
+## Desafio 
 # Amigo Secreto
 ![Portada](challenge-amigo-secreto_esp-main/assets/amigo-secreto.png)
 
@@ -28,32 +26,28 @@
 ## Descripción del proyecto
 Este proyecto consiste en una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Los usuarios pueden agregar nombres mediante un campo de texto, visualizar la lista de nombres ingresados, y realizar el sorteo para seleccionar un amigo secreto.
 
-## Estado del proyecto
+## 🚧 Estado del proyecto
 El proyecto está actualmente en desarrollo y las funcionalidades básicas han sido implementadas. Se planea agregar mejoras en la interfaz de usuario y opciones adicionales en futuras versiones.
 
-## Características de la aplicación y demostración
+## 🔨 Características de la aplicación y demostración
 - **Agregar nombres**: Los usuarios pueden ingresar el nombre de un amigo en un campo de texto y agregarlo a una lista visible.
 - **Validar entrada**: Si el campo de texto está vacío, se muestra una alerta pidiendo un nombre válido.
 - **Visualizar la lista**: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 
 ## Acceso al proyecto
-Puedes acceder al proyecto [aquí](https://github.com/tu-usuario/amigo-secreto).
+📁 **Puedes acceder al proyecto [aquí]([https://n4ufr4g0.github.io/One_Desaf-os/challenge-amigo-secreto_esp-main/)].**
+
+🛠️ **Abre e ingresa los nombres de tus amigos**
 
 ## Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## Personas Contribuyentes
-- [Nombre del Contribuyente 1](https://github.com/contribuyente1)
-- [Nombre del Contribuyente 2](https://github.com/contribuyente2)
+## Autores
+[<img src="https://avatars.githubusercontent.com/u/107274595?v=4" width=115><br><h2>N4ufr4g0</h2>](https://github.com/N4ufr4g0)
 
-## Personas-Desarrolladores del Proyecto
-- [Tu Nombre](https://github.com/tu-usuario)
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 
 ## Conclusión
 Este proyecto de "Amigo Secreto" ofrece una forma divertida y sencilla de realizar sorteos entre amigos. Agradecemos cualquier retroalimentación y contribución para mejorar la aplicación.
