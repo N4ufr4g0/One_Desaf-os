@@ -10,17 +10,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 
 ## Índice
-- [Título e imagen de portada](#título-e-imagen-de-portada)
+- [Título e imagen de portada](#desafio)
 - [Insignias](#insignias)
 - [Índice](#índice)
 - [Descripción del proyecto](#descripción-del-proyecto)
-- [Estado del proyecto](#estado-del-proyecto)
+- [Estado del proyecto](#🔨estado-del-proyecto)
 - [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 - [Acceso al proyecto](#acceso-proyecto)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Personas Contribuyentes](#personas-contribuyentes)
-- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-- [Licencia](#licencia)
+- [Autores](#autores)
 - [Conclusión](#conclusión)
 
 ## Descripción del proyecto
@@ -36,7 +34,7 @@ El proyecto está actualmente en desarrollo y las funcionalidades básicas han s
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 
 ## Acceso al proyecto
-📁 **Puedes acceder al proyecto [aquí]([https://n4ufr4g0.github.io/One_Desaf-os/challenge-amigo-secreto_esp-main/)].**
+📁 **Puedes acceder al proyecto [aquí](https://n4ufr4g0.github.io/One_Desaf-os/challenge-amigo-secreto_esp-main/).**
 
 🛠️ **Abre e ingresa los nombres de tus amigos**
 
